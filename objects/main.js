@@ -6,7 +6,7 @@ const person = {
     lastName:"Green",
     quote: "Try Try Try untill you succeed",
     skills: ["HTML","Css","Java Script"],
-    imgURL: "C:/VsPrjct/JavaScript/img/prof1.jpg",
+    imgURL: "prof1.jpg",
 
     getFullname(){
         return `${this.firstName} ${this.lastName}`
